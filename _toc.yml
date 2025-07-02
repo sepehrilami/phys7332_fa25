@@ -1,5 +1,5 @@
 format: jb-book
-root: intro
+root: README
 
 chapters:
   - file: notebooks/class_01/class_00_github_computing_setup
