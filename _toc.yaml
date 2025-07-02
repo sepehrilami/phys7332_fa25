@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: notebooks/class_01/intro
+    title: "Class 01: Introduction & Setup"
+  - file: notebooks/class_02/intro
+    title: "Class 02: Data Ingestion"
+  # etc: append one chapter each week

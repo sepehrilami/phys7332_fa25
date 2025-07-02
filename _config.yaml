@@ -1,0 +1,22 @@
+# Basic book settings for PHYS 7332 - Fall 2025
+
+title: PHYS 7332: Network Science Data & Models (Fall 2025)
+author: Brennan Klein
+logo: assets/logo.png
+execute:
+  execute_notebooks: cache
+
+# Only look under our notebooks directory
+jupyter_book:
+  content:
+    - notebooks
+
+# GitHub “edit” links
+repository:
+  url: https://github.com/network-science-data-and-models/phys7332_fa25
+  branch: main
+repository_provider: github
+
+html:
+  use_repository_button: true
+  use_issues_button: true
