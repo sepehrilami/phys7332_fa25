@@ -3,7 +3,7 @@ root: README
 
 chapters:
   - file: notebooks/class_00/class_00_github_computing_setup
-    title: "Class 00: Introduction & Setup"
+    title: "Class 00: Introduction and Setup"
   - file: notebooks/class_01/class_01_python_refresher
     title: "Class 01: Python Refresher"
   # etc: append one chapter each week
