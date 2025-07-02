@@ -2,7 +2,7 @@ format: jb-book
 root: README
 
 chapters:
-  - file: notebooks/class_01/class_00_github_computing_setup
+  - file: notebooks/class_00/class_00_github_computing_setup
     title: "Class 00: Introduction & Setup"
   - file: notebooks/class_01/class_01_python_refresher
     title: "Class 01: Python Refresher"
