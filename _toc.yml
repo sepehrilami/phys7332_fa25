@@ -6,4 +6,6 @@ chapters:
     title: "Class 00: Introduction and Setup"
   - file: notebooks/class_01/class_01_python_refresher
     title: "Class 01: Python Refresher"
+  - file: notebooks/class_02/class_02_networkx1
+    title: "Class 02: Introduction to Networkx 1"
   # etc: append one chapter each week
